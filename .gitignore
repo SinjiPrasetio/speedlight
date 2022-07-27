@@ -1,0 +1,5 @@
+/dist
+coverage.out
+.idea
+/.vscode
+/cache/testdata/tmp/
